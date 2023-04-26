@@ -1,4 +1,4 @@
-package com.example.horvat_kviz;
+package com.example.krizanic_kviz;
 
 import org.junit.Test;
 
